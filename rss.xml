@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Chiang Mai Adventures]]></title>
+        <description><![CDATA[Chiang Mai Adventures]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 23 May 2016 02:08:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Chiang Mai Adventures]]></title>
+            <description><![CDATA[<article><h1>Chiang Mai Adventures</h1><h2>Your Adventure Awaits</h2></article>]]></description>
+            <link>undefinedchiang-mai-adventures/index.html</link>
+            <guid isPermaLink="false">5faf9af4-dab7-46cf-8540-359979fe1a88</guid>
+            <pubDate>Mon, 23 May 2016 02:08:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
