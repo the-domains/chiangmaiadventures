@@ -1,0 +1,28 @@
+name: Chiang Mai Adventures
+favicon: null
+layout_spectrum: 0.08052807697094977
+typography_spectrum: 0.057768292957916856
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.3360998041462153
+  lightness: 0.7201699381694198
+  saturation: 0.740739461267367
+  rhythmicContrast: 0.7027318531181663
+purpose: []
