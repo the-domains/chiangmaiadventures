@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Chiang Mai Adventures]]></title>
         <description><![CDATA[Chiang Mai Adventures]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chiangmaiadventures/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 May 2016 02:08:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 May 2016 02:37:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chiangmaiadventures/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Chiang Mai Adventures]]></title>
-            <description><![CDATA[<article><h1>Chiang Mai Adventures</h1><h2>Your Adventure Awaits</h2></article>]]></description>
-            <link>undefinedchiang-mai-adventures/index.html</link>
+            <description><![CDATA[<article><h1>Chiang Mai Adventures</h1><h2>Zip Lining</h2><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73d4bdaa9c2bb324c17f897fe6fcaadf4e8e1c0c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/chiangmaiadventures/chiang-mai-adventures/index.html</link>
             <guid isPermaLink="false">5faf9af4-dab7-46cf-8540-359979fe1a88</guid>
-            <pubDate>Mon, 23 May 2016 02:08:28 GMT</pubDate>
+            <pubDate>Mon, 23 May 2016 02:37:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
